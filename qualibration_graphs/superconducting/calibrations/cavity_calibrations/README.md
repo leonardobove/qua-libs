@@ -1,6 +1,6 @@
 # Cavity Calibrations
 
-This folder contains calibration nodes for **SRF transmon-cavity systems** (e.g. NQI-SQMS TE62FNAL cryostat). These nodes are built on top of the standard QUA-Libs calibration framework and target experiments specific to bosonic quantum error correction (QEC): dispersive coupling characterization, cavity coherence measurements, Wigner tomography, and parity-time calibration.
+This folder contains calibration nodes for **SRF transmon-cavity systems** (e.g. the NQI-SQMS TE6FNAL single-cell cavity). These nodes are built on top of the standard QUA-Libs calibration framework and target experiments specific to bosonic quantum error correction (QEC): dispersive coupling characterization, cavity coherence measurements, Wigner tomography, and parity-time calibration.
 
 The qubit-cavity system targeted by these nodes consists of a superconducting transmon qubit dispersively coupled to a high-Q storage cavity (SRF or 3D microwave). The dispersive interaction χ shifts the qubit frequency by χ per photon in the cavity, enabling photon-number-resolved readout and Fock-state control.
 
